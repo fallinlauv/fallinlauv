@@ -5,7 +5,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fallinlauv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://nirzak-streak-stats.vercel.app/?user=fallinlauv&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fallinlauv&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=fallinlauv&theme=tokyonight&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fallinlauv&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
